@@ -12,6 +12,8 @@ The CompTIA Security+ (SY0-701) certification exam comprises five domains or are
 - Additionally, you will encounter a handful of performance-based questions. -
 - To pass the Security+ certification exam, you need a minimum score of 750 points out of 900 on their 100 to 900 point scale.
 
+More Info: **[CompTIA SY0-701 Exam Syllabus Topics](https://www.edusum.com/comptia/comptia-security-plus-exam-syllabus)**
+
 ## Exam Tips
 
 - There won't be any trick questions. However, watch out for distractors or red herrings among the listed possible answer choices, as at least one is usually meant to distract you from the correct answer.
