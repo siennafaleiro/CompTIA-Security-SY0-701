@@ -29,13 +29,6 @@ CompTIA Security+ (SY0-701) Study Notes
                 -   Multiple Choice Questions
                 -   100% Money Back Guarantee
                 -   [Free Sample Question and Answer](https://www.edusum.com/comptia/comptia-security-sy0-701-certification-sample-questions)
--   Join our Social Media
-    -   https://www.facebook.com/edusumcom/
-    - 	https://www.instagram.com/edusumguide/
-    -   https://in.pinterest.com/edusumofficial/
-    -   https://x.com/edusumcom
-    -   https://www.threads.net/@edusumguide
-    -   https://www.youtube.com/@edusumguide
 
 ## Exam Tips
 
