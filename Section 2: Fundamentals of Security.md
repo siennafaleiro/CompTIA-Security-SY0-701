@@ -188,5 +188,6 @@
         - **Policy Engine:** Cross-references the access request with its predefined policies.
         - **Policy Administrator:** Used to establish and manage the access policies.
         - **Policy Enforcement Point:** Where the decision to grant or deny access is actually executed.
-
+     
+## Related Products: **[SY0-701: CompTIA Security+](https://www.edusum.com/comptia/sy0-701-comptia-security)**
 
