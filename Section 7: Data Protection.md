@@ -190,3 +190,5 @@ Aims to monitor data in use, in transit, or at rest to detect and prevent data t
 - **Network DLP System**: Software or hardware placed at the network perimeter. Focuses on monitoring data entering and leaving the network. Detects unauthorized data leaving the network.
 - **Storage DLP System**: Installed on a server in the data center. Inspects data at rest, especially encrypted or watermarked data. Monitors data access patterns and flags policy violations.
 - **Cloud-Based DLP System**: Offered as a software-as-a-service solution. Protects data stored in cloud services.
+
+## Related Products: **[SY0-701: CompTIA Security+](https://www.edusum.com/comptia/sy0-701-comptia-security)**
