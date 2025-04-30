@@ -146,4 +146,6 @@ Some of the common other social engineering attacks:
 - **Piggybacking and Tailgating**: Involve an unauthorized person following an authorized person into a secure area.
   - **Tailgating**: Attacker attempts to follow an employee through an access control vestibule or access control point without their knowledge.
   - **Piggybacking**: Involves an attacker convincing an authorized employee to let them into the facility by getting the authorized employee to swipe their own access badge and allow the attacker inside the facility.
+ 
+## Related Products: **[SY0-701: CompTIA Security+](https://www.edusum.com/comptia/sy0-701-comptia-security)**
 
