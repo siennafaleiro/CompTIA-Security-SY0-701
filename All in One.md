@@ -24,17 +24,18 @@ CompTIA Security+ (SY0-701) Study Notes
             -   CompTIA Store
                 -   You can do this by going to [store.comptia.org](http://store.comptia.org/) and buying it from their web store
                 -   The price does vary depending on which country you will be taking your exam from since CompTIA uses region based pricing
-            -   Dion Training
-                -   You can go to [diontraining.com/vouchers](http://diontraining.com/vouchers) and purchase your voucher directly from us, because we are a certified Platinum Level CompTIA Delivery Partner
-                -   You’ll save an extra 10% or so off the regular CompTIA price
-                -   We’ll give you free access to our searchable video library as a bonus for buying your voucher from us
--   4 tips for success in this course
-    -   Turn on closed captioning
-        -   Control the playback speed
-        -   Join our FB or Discord group
-            -   facebook.com/groups/diontraining
-            -   diontraining.com/discord
-        -   Download and print the study guide
+            -   Edusum Practice Exams
+                -   Time Bound [practice exams](https://www.edusum.com/comptia/sy0-701-comptia-security) to test yourself under timed exam environment
+                -   Multiple Choice Questions
+                -   100% Money Back Guarantee
+                -   [Free Sample Question and Answer](https://www.edusum.com/comptia/comptia-security-sy0-701-certification-sample-questions)
+-   Join our Social Media
+    -   https://www.facebook.com/edusumcom/
+    - 	https://www.instagram.com/edusumguide/
+    -   https://in.pinterest.com/edusumofficial/
+    -   https://x.com/edusumcom
+    -   https://www.threads.net/@edusumguide
+    -   https://www.youtube.com/@edusumguide
 
 ## Exam Tips
 
