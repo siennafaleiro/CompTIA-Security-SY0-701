@@ -174,5 +174,6 @@ This document outlines different types of threat actors, their motivations, attr
   - **Use of port triggering to hide services:**
     - **Port Triggering:** Security mechanism where specific services or ports on a network device remain closed until a specific outbound traffic pattern is detected
   - **Spoofing fake telemetry data:** When a system detects a network scan is being attempted by an attacker, it can be configured to respond by sending out fake telemetry or network data
-
+ 
+## Related Products: **[SY0-701: CompTIA Security+](https://www.edusum.com/comptia/sy0-701-comptia-security)**
 
