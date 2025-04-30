@@ -182,5 +182,6 @@ The key difference between Piggybacking and Tailgating:
   - Implement the use of shielded wallets or sleeves with your RFID access badges.
 - Monitor and audit your access logs.
 
+## Related Products: **[SY0-701: CompTIA Security+](https://www.edusum.com/comptia/sy0-701-comptia-security)**
 
 
